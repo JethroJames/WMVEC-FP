@@ -7,14 +7,14 @@
 Multi-view clustering has attracted substantial attention thanks to its ability to integrate information from diverse views. Our proposed Adaptive Weighted Multi-View Evidential Clustering (WMVEC) method, based on the theory of belief functions, characterizes the uncertainty and imprecision in cluster assignment. By integrating view weight assignments and credal partitions, our approach enables objects to be associated not only with singleton clusters but also subsets of these clusters (meta-clusters) and an empty set representing noise. Additionally, WMVEC with Feature Preference (WMVEC-FP) addresses the relevance of each feature under different views, ensuring enhanced performance and relevance in clustering tasks.
 
 ## Publication
-
+⭐This work is the extension of conference version [WMVEC](https://github.com/JethroJames/WMVEC).
 🔥This work is published in the Knowledge-Based Systems journal:
 
 - **Title**: Adaptive Weighted Multi-View Evidential Clustering With Feature Preference
 - **Authors**: Zhe Liu, Haojian Huang, Sukumar Letchmunan, Muhammet Deveci
 - **Journal**: Knowledge-Based Systems, Volume 294, 2024, Pages 111770
-- **DOI**: [10.1016/j.knosys.2024.111770](https://doi.org/10.1016/j.knosys.2024.111770)
-- **Read the paper here**: [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0950705124004052)
+- **DOI**: [10.1016/j.knosys.2024.111770](https://doi.org/10.1016/j.knosys.2024.111770).
+- **Read the paper here**: [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0950705124004052).
 
 ## Contributions
 We welcome contributions to our project! If you have suggestions or improvements regarding our code or methodologies, please feel free to fork this repository and submit a pull request.
