@@ -16,7 +16,7 @@ Multi-view clustering has attracted substantial attention thanks to its ability 
 - **DOI**: [10.1016/j.knosys.2024.111770](https://doi.org/10.1016/j.knosys.2024.111770)
 - **Read the paper here**: [ScienceDirect Link](https://www.sciencedirect.com/science/article/pii/S0950705124004052)
 
-🧰## Contributions
+## Contributions
 We welcome contributions to our project! If you have suggestions or improvements regarding our code or methodologies, please feel free to fork this repository and submit a pull request.
 
 For any questions or issues, please open an issue on this repository, and we will do our best to address it promptly.
