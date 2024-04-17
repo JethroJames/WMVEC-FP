@@ -8,6 +8,7 @@ Multi-view clustering has attracted substantial attention thanks to its ability 
 
 ## Publication
 ⭐This work is the extension of conference version [WMVEC](https://github.com/JethroJames/WMVEC).
+
 🔥This work is published in the Knowledge-Based Systems journal:
 
 - **Title**: Adaptive Weighted Multi-View Evidential Clustering With Feature Preference
